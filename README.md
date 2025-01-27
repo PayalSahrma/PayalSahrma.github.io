@@ -3,15 +3,22 @@ The passion for uncovering insights from data and translating them into actionab
 
 
 Skills:
+
 •	Languages: Python, SQL
+
 •	Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 •	Tools: AWS, Tableau, Power BI
+
 •	Cloud Platforms: AWS
 
 
 Projects:
+
 Twitter Analysis: https://github.com/PayalSahrma/Twitter-Analysis
+
 flight-delay-predictor: https://github.com/PayalSahrma/flight-delay-predictor 
+
 Youtube analysis:  https://github.com/PayalSahrma/Youtube-Data-Analysis-with-PySpark 
 
 
