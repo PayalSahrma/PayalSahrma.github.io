@@ -23,5 +23,6 @@ Youtube analysis:  https://github.com/PayalSahrma/Youtube-Data-Analysis-with-PyS
 
 
 Education:
+
  Master of Science- Data Analysis, University of Arizona, Tuscan. 2022-2024
 
